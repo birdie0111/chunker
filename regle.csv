@@ -1,0 +1,6 @@
+index,prep,det,pro,pref
+prep,,SN,,
+det,PN,N,SV,
+pro,PN,,,
+pref,PV,,SV,
+default,PN,N,SV,
