@@ -2,9 +2,9 @@ import outils as ot
 import pandas as pd
 
 # ---------------------------------------- noms des fichiers ------------------------------------------
-f_in = "source.txt"
+f_in = "source1.txt"
 f_token = "tokens.txt"
-f_out = "chunker.txt"
+f_out = "chunker1.txt"
 
 # ---------------------------------------- variables globaux ------------------------------------------
 list_word = {}
@@ -27,10 +27,10 @@ regle = pd.read_csv("regle.csv", index_col="index").fillna("NULL").to_dict("dict
 
 # ---------------------------------------- faire les chunkers ------------------------------------------
 
-print(category)
-print(regle)
+#print(category)
+#print(regle)
 
-'''
+
 with open(f_out, "w", encoding="utf-8") as try_out:
     for token in tokens:
         # Verifier si le token est deja un chunker lui-même
@@ -94,4 +94,3 @@ with open(f_out, "w", encoding="utf-8") as try_out:
                         non_dict_flag = True
 
 
-'''

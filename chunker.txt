@@ -1,0 +1,100 @@
+«	-> PCT
+je veux montrer 	->SV
+à tous les gauchistes 	-> PN
+et	-> CONJ
+ceux qui ne sont rien que 	->N
+je les respecte 	-> SV
+.	-> PCT
+et	-> CONJ
+que 	->N
+je sais aussi me montrer généreux 	-> SV
+»	-> PCT
+,	-> PCT
+a déclaré emmanuel macron 	->V
+ce matin au micro 	->SN
+de rtl 	-> PN
+.	-> PCT
+puis	-> CONJ
+d’ ajouter 	-> PN
+:	-> PCT
+«	-> PCT
+certes 	-> PN
+,	-> PCT
+l’ augmentation n’ est pour 	->SN
+l’ instant que de 	->SN
+l’ ordre d’ un euro 	-> SN
+mais	-> CONJ
+cela pourra monter jusqu’ 	->N
+à un euro cinquante 	->PN
+à paris 	-> PN
+,	-> PCT
+où	-> CONJ
+les loyers sont assez chers pour 	->SN
+ceux qui ne bossent pas autant que moi 	-> SV
+.	-> PCT
+»	-> PCT
+a la question de savoir s’ 	->SV
+il comptait également augmenter le smic 	-> SV
+,	-> PCT
+le président a répondu par 	->SN
+l’ affirmative 	-> N
+:	-> PCT
+«	-> PCT
+je l’ ai dit aux français 	-> SV
+,	-> PCT
+j’ ai changé 	-> N
+.	-> PCT
+c’ est pourquoi j’ augmenterai 	->N
+le smic de façon significative 	->SN
+dès le printemps 2027 	-> PN
+.	-> PCT
+»	-> PCT
+d’ autres mesuresemmanuel macron ne s’ est 	-> N
+pourtant	-> CONJ
+pas arrêté là 	-> PN
+et	-> CONJ
+a égrené toute une série 	->PN
+de mesures sociales 	-> PN
+,	-> PCT
+confirmant qu’ il entendait bien 	-> PN
+«	-> PCT
+muscler 	->SV
+sa jambe gauche 	-> N
+»	-> PCT
+.	-> PCT
+il a 	->N
+d’ abord promisune remise 	->PN
+de cinq centimes 	->PN
+sur la feuille de paie 	->PN
+du mois 	->PN
+de mai 	->PN
+pour tous les français 	->PN
+sans exception 	-> PN
+puis	-> CONJ
+a assuré qu’ il n’ instaurerait jamais 	->PN
+d’ impôt 	->PN
+sur la fortune pour 	->PN
+les pauvres 	-> N
+.	-> PCT
+en revanche 	-> N
+,	-> PCT
+après l’ avoir envisagé 	->PN
+dans un premier temps 	-> PN
+,	-> PCT
+il a définitivement refusé 	->N
+de baisser le départ 	->PN
+de l’ âge à 	->PN
+la retraite 	-> N
+et	-> CONJ
+de revenir 	->N
+sur la réforme de 	->PN
+l’ assurance chômage 	-> N
+,	-> PCT
+arguant que 	-> N
+«	-> PCT
+ça coûte un pognon de dingue 	-> N
+.	-> PCT
+»	-> PCT
+il me faut 	->SV
+une chose 	-> N
+.	-> PCT

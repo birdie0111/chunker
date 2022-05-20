@@ -1,0 +1,35 @@
+durant son discours sur 	->
+le champ de mars 	-> SN
+,	-> PCT
+emmanuel macron a demandé aux français 	->PN
+de célébrer 	->PN
+sa victoire 	->N
+en l’ applaudissant chaque soir 	->PN
+à 20h 	-> PN
+«	-> PCT
+pour une durée indéterminée 	-> PN
+»	-> PCT
+.	-> PCT
+avant 	->N
+d’ ajouter 	-> PN
+«	-> PCT
+m’ applaudir c’ est également applaudir 	->PN
+la retraite à 65 ans 	-> SN
+,	-> PCT
+la casse du service public 	-> SN
+,	-> PCT
+le rsa conditionné 	-> PN
+et	-> CONJ
+tout un tas 	->N
+de réformes que je garde 	->PN
+sous le coude 	-> PN
+!	-> PCT
+il y aura pas mal 	->N
+de surprises 	-> PN
+!	-> PCT
+»	-> PCT
+.	-> PCT
+un teasing de 	->SN
+la part du président qui donne l’ eau 	->SN
+à la bouche 	-> PN
+.	-> PCT
