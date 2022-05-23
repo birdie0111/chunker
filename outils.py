@@ -1,10 +1,10 @@
 import spacy as sp
 
 nlp_fr = sp.load("fr_core_news_sm") # pour tokeniser textes en francais
+nlp_en = sp.load("en_core_web_sm")
 
 
-
-def fr_token(f_in, f_token):
+def make_token(f_in, f_token, language):
     '''
     Tokenizer le fichier .txt et sauvegarder le résultat dans un autre fichier de .txt
 
@@ -22,7 +22,10 @@ def fr_token(f_in, f_token):
             for line in f_in:
                 line = line.strip()
                 phrase += line
-            doc = nlp_fr(phrase)
+            if (language == "fr"):
+                doc = nlp_fr(phrase)
+            elif (language == "en"):
+                doc = nlp_en(phrase)
             for token in doc:
                 file_token.write(token.text.lower() + "|")
 

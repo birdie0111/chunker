@@ -1,0 +1,88 @@
+“	-> PCT
+i want 	->SV
+to show all leftists 	-> PN
+and	-> CONJ
+those who are nothing that 	->N
+i respect them 	-> SV
+.	-> PCT
+and	-> CONJ
+that 	->SV
+i also know how 	->SV
+to be generous 	-> PN
+,	-> PCT
+”	-> PCT
+said emmanuel macron this morning at 	->PN
+the microphone of rtl 	-> SN
+.	-> PCT
+then he added 	-> PN
+:	-> PCT
+" certainly 	-> SV
+,	-> PCT
+the increase is for 	->SN
+the moment only around one euro 	-> N
+,	-> PCT
+but	-> CONJ
+it could go up 	->N
+to one euro fifty 	->PN
+in paris 	-> PN
+,	-> PCT
+where the rents are quite expensive for 	->PN
+those who do n't do n't work as hard as 	->N
+me 	-> V
+.	-> PCT
+“	-> PCT
+asked whether 	->V
+he also intended 	->SV
+to increase the minimum wage 	-> PN
+,	-> PCT
+the president replied in 	->SN
+the affirmative 	-> N
+:	-> PCT
+“	-> PCT
+i told the french 	-> SV
+,	-> PCT
+i changed 	-> N
+.	-> PCT
+this is why 	->SV
+i will increase the minimum wage significantly from 	->SV
+the spring of 2027.”other measuresemmanuel macron did not stop there 	-> SN
+,	-> PCT
+however	-> CONJ
+,	-> PCT
+and	-> CONJ
+went through a whole series of social measures 	-> PN
+,	-> PCT
+confirming that 	->PN
+he intended 	->SV
+to " strengthen 	->PN
+his left leg " 	-> N
+.	-> PCT
+he first promised 	->SV
+a discount of five centimes 	->SN
+on the pay slip 	->SV
+for the month of may 	->PN
+for all french people without exception 	-> PN
+and	-> CONJ
+then assured that 	->PN
+he would never introduce a wealth tax for 	->SV
+the poor 	-> N
+.	-> PCT
+on the other hand 	-> PN
+,	-> PCT
+after considering it 	->PN
+at first 	-> PN
+,	-> PCT
+he definitively refused 	->N
+to lower the retirement age 	-> PN
+and	-> CONJ
+to reconsider the reform 	->PN
+of unemployment insurance 	-> PN
+,	-> PCT
+arguing that 	-> PN
+“	-> PCT
+it costs a lot 	->SV
+of money 	-> PN
+.	-> PCT
+»	-> PCT
+i need one thing 	-> PN
+.	-> PCT

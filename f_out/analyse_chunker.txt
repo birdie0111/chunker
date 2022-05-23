@@ -6,63 +6,71 @@ ceux qui ne sont rien que 	->N
 je les respecte 	-> SV
 .	-> PCT
 et	-> CONJ
-que 	->N
-je sais aussi me montrer généreux 	-> SV
+que 	->N     X   CONJ
+je sais aussi   -> SV
+me montrer généreux 	-> V
 »	-> PCT
 ,	-> PCT
-a déclaré emmanuel macron ce matin 	->N
-au micro 	->PN
+a déclaré emmanuel macron 	->V
+ce matin    -> N
+au micro 	-> PN
 de rtl 	-> PN
 .	-> PCT
 puis	-> CONJ
-d’ ajouter 	-> PN
+d’ ajouter 	-> PN   X PV
 :	-> PCT
 «	-> PCT
-certes 	-> PN
+certes 	-> PN   X N
 ,	-> PCT
-l’ augmentation n’ est pour 	->SN
-l’ instant que de 	->SN
+l’ augmentation -> X N
+n’ est pour l’ instant -> X PN
+que de 	->  X P
 l’ ordre d’ un euro 	-> SN
 mais	-> CONJ
-cela pourra monter jusqu’ 	->N
-à un euro cinquante 	->PN
+cela pourra monter 	->N     X SV
+jusqu’à un euro cinquante 	->PN
 à paris 	-> PN
 ,	-> PCT
 où	-> CONJ
-les loyers sont assez chers pour 	->SN
-ceux qui ne bossent pas autant que moi 	-> SV
+les loyers -> X N
+sont assez chers    -> SV
+pour ceux qui ne bossent pas    -> PN
+autant que moi 	-> ADJ
 .	-> PCT
 »	-> PCT
-a la question 	->N
-de savoir s’ il comptait également augmenter le smic 	-> PN
+a la question de savoir s’ 	->SV    X PN
+il comptait également 	-> SV
+augmenter le smic   -> V
 ,	-> PCT
-le président a répondu 	->N
-par l’ affirmative 	-> PN
+le président a répondu 	->SN    X SV
+Par l’ affirmative 	-> PN
 :	-> PCT
 «	-> PCT
 je l’ ai dit aux français 	-> SV
 ,	-> PCT
-j’ ai changé 	-> N
+j’ ai changé 	-> N    X SV
 .	-> PCT
-c’ est pourquoi j’ augmenterai 	->N
-le smic de façon significative 	->SN
+c’ est pourquoi j’ augmenterai 	->N     X SV
+le smic     X N
+de façon significative  X 	->SN    
 dès le printemps 2027 	-> PN
 .	-> PCT
 »	-> PCT
-d’ autres mesuresemmanuel macron ne s’ est 	-> N
+d’ autres mesures   X N
+emmanuel macron ne s’ est 	-> N    X SV
 pourtant	-> CONJ
 pas arrêté là 	-> PN
 et	-> CONJ
-a égrené toute 	->N
-une série de mesures sociales 	-> SN
+a égrené toute une série 	->PN    X SV
+de mesures sociales 	-> PN
 ,	-> PCT
-confirmant qu’ il entendait bien 	-> PN
+confirmant qu’ il entendait bien 	-> PN   X SV
 «	-> PCT
 muscler 	->SV
 sa jambe gauche 	-> N
 »	-> PCT
 .	-> PCT
-il a 	->SV
+il a 	->N     X SV
 d’ abord promisune remise 	->PN
 de cinq centimes 	->PN
 sur la feuille de paie 	->PN
@@ -71,8 +79,8 @@ de mai 	->PN
 pour tous les français 	->PN
 sans exception 	-> PN
 puis	-> CONJ
-a assuré qu’ 	->PN
-il n’ instaurerait jamais 	->SV
+a assuré qu’    X SV
+il n’ instaurerait jamais 	->PN    X SV
 d’ impôt 	->PN
 sur la fortune pour 	->PN
 les pauvres 	-> N
@@ -82,18 +90,18 @@ en revanche 	-> N
 après l’ avoir envisagé 	->PN
 dans un premier temps 	-> PN
 ,	-> PCT
-il a définitivement refusé 	->SV
+il a définitivement refusé 	->N     X SV
 de baisser le départ 	->PN
 de l’ âge à 	->PN
 la retraite 	-> N
 et	-> CONJ
-de revenir 	->N
+de revenir 	->N     X PV
 sur la réforme de 	->PN
 l’ assurance chômage 	-> N
 ,	-> PCT
 arguant que 	-> N
 «	-> PCT
-ça coûte un pognon de dingue 	-> N
+ça coûte un pognon de dingue 	-> N    X SV
 .	-> PCT
 »	-> PCT
 il me faut 	->SV

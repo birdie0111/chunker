@@ -4,6 +4,7 @@ import pandas as pd
 # ---------------------------------------- noms des fichiers ------------------------------------------
 f_in = "f_in/source.txt"
 f_token = "tokens.txt"
+en_token = "tokensen.txt"
 f_out = "f_out/chunker.txt"
 
 # ---------------------------------------- variables globaux ------------------------------------------
@@ -14,13 +15,17 @@ mark = ""
 count_dict_words = 0 # compter nombre de mots de dict dans list_word
 non_dict_flag = False
 duplicate_flag = False
-
+language = "fr"
 
 # ---------------------------------------- faire le fichier de tokenization ----------------------------
-ot.fr_token(f_in, f_token)
+if (language == "fr"):
+    ot.make_token(f_in, f_token, "fr")
+elif (language == "en"):
+    ot.make_token(f_in, en_token, "en")
 with open(f_token, "r", encoding="utf-8") as file_token:
-    tokens = ot.dic_tokens(file_token)
-
+    tokens_fr = ot.dic_tokens(file_token)
+with open(en_token, "r", encoding="utf-8") as file_token:
+    tokens_en = ot.dic_tokens(file_token)
 # ---------------------------------------- faire les dictionnaires par rapport aux fichiers csv --------
 category = pd.read_csv("dict.csv").fillna("NULL").to_dict("list")
 regle = pd.read_csv("regle.csv", index_col="index").fillna("NULL").to_dict("dict")
@@ -29,6 +34,10 @@ regle = pd.read_csv("regle.csv", index_col="index").fillna("NULL").to_dict("dict
 
 
 with open(f_out, "w", encoding="utf-8") as try_out:
+    if (language == "fr"):
+        tokens = tokens_fr
+    elif(language == "en"):
+        tokens = tokens_en
     for token in tokens:
         # Verifier si le token est deja un chunker lui-même
         if token in category["pct"]:
