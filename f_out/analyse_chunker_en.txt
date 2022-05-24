@@ -1,0 +1,36 @@
+during 	->PN
+his speech 	->N
+on the champ 	->SV X PN
+de mars 	-> PN
+,	-> PCT
+emmanuel macron X N
+asked the french to celebrate 	->PN X SV
+his victory 	->N
+by applauding him every evening 	->PN
+at 8 p.m. " 	->PN
+for an indefinite period " 	-> PN
+.	-> PCT
+before adding 	-> N X PN
+“	-> PCT
+to applaud me is also 	->PV
+to applaud retirement 	->PN
+at 65 	-> PN
+,	-> PCT
+the breakage of 	->SN
+the public service 	-> N
+,	-> PCT
+the conditioned rsa 	-> N
+and	-> CONJ
+a whole bunch of reforms 	->SN X N
+that 	->N X CONJ
+i keep under 	->SV
+my elbow 	-> N
+!	-> PCT
+there will be 	->N X V
+a lot of surprises 	-> SN X N
+!	-> PCT
+" 	-> PN
+.	-> PCT
+a mouth - watering teaser	->SN X N
+from the president 	-> N X PN
+.	-> PCT
